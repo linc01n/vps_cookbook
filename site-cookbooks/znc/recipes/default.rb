@@ -11,6 +11,9 @@ package 'znc'
 package "git-core"
 package "zsh"
 package "emacs23-nox"
+package "htop"
+
+
 
 user node["user"]["name"] do
   password node["user"]["password"]
