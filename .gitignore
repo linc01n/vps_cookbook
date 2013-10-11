@@ -1,0 +1,4 @@
+/cookbooks/
+/tmp/librarian/
+/nodes/
+/site-cookbooks/znc/templates/default/znc.conf.erb
